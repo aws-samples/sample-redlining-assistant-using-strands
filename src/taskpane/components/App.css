@@ -1,0 +1,10 @@
+/* Basic styles for the app */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Ensure CloudScape components have proper spacing */
+.awsui-app-layout {
+  height: 100%;
+  width: 100%;
+}
