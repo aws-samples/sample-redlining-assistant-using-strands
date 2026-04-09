@@ -26,7 +26,7 @@
     "watch": "webpack --mode development --watch"
   },
   "dependencies": {
-    "@aws-amplify/ui-react": "^6.11.2",
+    "@aws-amplify/ui-react": "^6.15.3",
     "@cloudscape-design/chat-components": "^1.0.51",
     "@cloudscape-design/components": "^3.0.993",
     "@cloudscape-design/design-tokens": "^3.0.58",
